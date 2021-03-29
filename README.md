@@ -4,14 +4,14 @@
 ## Proyecto de aprendizaje
 Prueba técnica que me permitió tener el primer acercamiento al lenguaje Goland donde aprendí a:
 
+ - Instalar y Configurar Go en SO Windows y linux
+ - Crear una app sencilla por consola
  - Crear un servidor con Golang
- - Manejo de Peticiones Request y Response
- - Creación de endpoint aplicando MVC
- - Manejo de la estructura del lenguaje 
- - Manejar los type Struct como el modelo
- - Conectar Base de datos a Golang
- - conocer una parte de la especificación del Lenguaje
- - Manejo de errores
+ - Crear endpoint 
+  - Manejar los type Struct como el modelo
+ - Conectar Base de datos SQLite3 a Golang
+ - conocer la especificación del Lenguaje
+ - Manejar errores
  
 ## Tecnologias usadas
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
